@@ -15,7 +15,7 @@ function NavBar() {
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav text-white">
                             <li class="nav-item">
-                                <Link class="nav-link active text-white" aria-current="page" to="/home">HOME</Link>
+                                <Link class="nav-link active text-white" aria-current="page" to="/">HOME</Link>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link active text-white" aria-current="page" href="#">MENU</a>
