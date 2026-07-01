@@ -1,0 +1,101 @@
+{
+  "All": [
+    {
+      "name": "MARGHERITA PIZZA",
+      "price": "$20.0",
+      "category": "burger",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image":"./src/assets/section4/img1.png"
+    },
+    {
+      "name": "RUM WITH SODA",
+      "price": "$40.0",
+      "category": "drinks",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image":"./src/assets/section4/img2.png"
+    },
+    {
+      "name": "CEASER SALAD",
+      "price": "$40.0",
+      "category": "salad",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image":"./src/assets/section4/img3.png"
+    },
+    {
+      "name": "SEA FOOD PASTA",
+      "price": "$50.0",
+      "category": "pasta",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image":"./src/assets/section4/img4.png"
+    },
+    {
+      "name": "CHOCOLATE COOKIES",
+      "price": "$10.0",
+      "category": "deserts",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image":"./src/assets/section4/img5.png"
+    },
+    {
+      "name": "PEPPERONI PIZZA",
+      "price": "$20.0",
+      "category": "pizza",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image":"./src/assets/section4/img6.png"
+    },
+    {
+      "name": "BISMARCK PIZZA",
+      "price": "$150.0",
+      "category": "pizza",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image":"./src/assets/section4/img7.png"
+    },
+    {
+      "name": "VALDOSTANA PIZZA",
+      "price": "$40.0",
+      "category": "pizza",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image":"./src/assets/section4/img8.png"
+    }
+
+  ],
+  "section5":[
+    {
+      "image":"./src/assets/section5/img1.jpg",
+      "name":"JOHN DEO",
+      "subname":"Sous Chef"
+    },
+    {
+      "image":"./src/assets/section5/img2.jpg",
+      "name":"JOHN DEO",
+      "subname":"Sous Chef"
+    },
+    {
+      "image":"./src/assets/section5/img3.jpg",
+      "name":"JOHN DEO",
+      "subname":"Sous Chef"
+    },
+    {
+      "image":"./src/assets/section5/img4.jpg",
+      "name":"JOHN DEO",
+      "subname":"Sous Chef"
+    }
+  ],
+  "section6":[
+    {
+      "image":"./src/assets/section6/img1.jpg",
+      "name":"By John Deo   0 Comments",
+      "subname":"POSSESSION SO CAMPARISON INQUIET HE CONVICTION"
+    },
+    {
+      "image":"./src/assets/section6/img2.jpg",
+      "name":"By John Deo   0 Comments",
+      "subname":"POSSESSION SO CAMPARISON INQUIET HE CONVICTION"
+    },
+    {
+      "image":"./src/assets/section6/img3.jpg",
+      "name":"By John Deo   0 Comments",
+      "subname":"POSSESSION SO CAMPARISON INQUIET HE CONVICTION"
+    }
+    
+  ]
+}
